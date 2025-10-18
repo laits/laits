@@ -1,5 +1,5 @@
 - 👋 Hello World!
-- 📫 Для связи https://github.com/laits/Guestbook
+- 📫 Для связи https://laits.ru/guestbook/
 
 <!---
 laits/laits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
